@@ -67,13 +67,11 @@ Sri Venkateshwara College of Engineering, Tirupati
 
 ---
 
-## 🏆 Certifications & Involvement
+## 🏆 Certifications
 
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🤖 **Microsoft Artificial Intelligence & Machine Learning**
 - 🐍 **Think Champ Python ML**
-- 🎨 **ACM Student Member — SVCE Chapter**
-- ✍️ **Content Lead — SVCE ACM Student Chapter**
 
 ---
 
