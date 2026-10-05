@@ -65,10 +65,6 @@ I enjoy building practical software systems that combine **software engineering,
 Sri Venkateshwara College of Engineering, Tirupati  
 **2023 – 2027**
 
-**Minor Degree — Business Administration**  
-Sri Venkateshwara College of Engineering  
-**2025 – Present**
-
 ---
 
 ## 🏆 Certifications & Involvement
